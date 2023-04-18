@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vdisarlo
 - 👀 I’m interested in Mathematics, Geometry, and Data Science. 
-- 🌱 I’m currently learning Machine Learning. 
-- 💞️ I’m looking to collaborate on Data Science for Social Good. 
-- 📫 How to reach me : email me on vdisarlo@mathi.uni-heidelberg.de
+- 🌱 I’m Machine Learning an  
+- 💞️ I am interested in applications of data science to social good. 
+- 📫 How to reach me : email me on v.disarlo@gmail.com 
 
 <!---
 vdisarlo/vdisarlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
