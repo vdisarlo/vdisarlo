@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vdisarlo
-- 👀 I’m interested in Mathematics, Geometry, and Data Science. 
-- 🌱 I’m Machine Learning an  
+- 👀 I’m interested in Mathematics, Geometry, and Data Science.
 - 💞️ I am interested in applications of data science to social good. 
 - 📫 How to reach me : email me on v.disarlo@gmail.com 
 
